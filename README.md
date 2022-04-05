@@ -24,4 +24,5 @@ This is a Python data analysis of a videogame sales dataset. This dataset contai
 
 ## Packages used
 pandas
+
 matplotlib.pyplot
