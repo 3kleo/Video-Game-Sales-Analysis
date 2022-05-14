@@ -1,6 +1,6 @@
 # Video Game Sales Analysis
 
-This is a Python data analysis of a videogame sales dataset. This dataset contains records of popular video games in North America, Japan, Europe and other parts of the world. Every video game in this dataset has at least 100k global sales.
+This is a Python exploratory data analysis of videogame sales. This dataset contains records of popular video games in North America, Japan, Europe and other parts of the world. Every video game in this dataset has at least 100k global sales.
 
 ## Source:
 
